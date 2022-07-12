@@ -1,0 +1,15 @@
+D:\Projects\evaluateExpression\bin\Debug\net6.0\evaluateExpression.exe
+D:\Projects\evaluateExpression\bin\Debug\net6.0\evaluateExpression.deps.json
+D:\Projects\evaluateExpression\bin\Debug\net6.0\evaluateExpression.runtimeconfig.json
+D:\Projects\evaluateExpression\bin\Debug\net6.0\evaluateExpression.dll
+D:\Projects\evaluateExpression\bin\Debug\net6.0\evaluateExpression.pdb
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.csproj.AssemblyReference.cache
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.AssemblyInfoInputs.cache
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.AssemblyInfo.cs
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.csproj.CoreCompileInputs.cache
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.dll
+D:\Projects\evaluateExpression\obj\Debug\net6.0\refint\evaluateExpression.dll
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.pdb
+D:\Projects\evaluateExpression\obj\Debug\net6.0\evaluateExpression.genruntimeconfig.cache
+D:\Projects\evaluateExpression\obj\Debug\net6.0\ref\evaluateExpression.dll
